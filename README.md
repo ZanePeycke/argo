@@ -1,2 +1,2 @@
-# argo-motion-forecasting
+# Argo Motion Forecasting
 (public) motion forecasting for Argo
